@@ -1,0 +1,4 @@
+name: kotlinpleasework
+version: '${project.version}'
+main: me.totalnerd.kotlinpleasework.Kotlinpleasework
+api-version: '1.20'
